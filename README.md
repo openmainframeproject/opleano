@@ -9,7 +9,7 @@
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/CII ID/badge)](https://bestpractices.coreinfrastructure.org/projects/CII ID)
 ```
 
-# PROJECT NAME
+# Opleano
 
 _2-3 sentence description of the project_
 
@@ -33,7 +33,7 @@ You can connect with the community in a variety of ways...
 Anyone can contribute to the PROJECT NAME project - learn more at [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Governance
-PROJECT NAME is a project hosted by the [Open Mainframe Project](https://openmainframeproject.org). This project has established it's own processes for managing day-to-day processes in the project at [GOVERNANCE.md](GOVERNANCE.md).
+Opleano is a project hosted by the [Open Mainframe Project](https://openmainframeproject.org). This project has established it's own processes for managing day-to-day processes in the project at [GOVERNANCE.md](GOVERNANCE.md).
 
 
 ## Reporting Issues
